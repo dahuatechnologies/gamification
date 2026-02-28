@@ -1,4 +1,4 @@
-# EVOX Aleatory 5D System
+# EVOX Aleatory 5A System
 
 ## 1. Formal Specification Framework
 
@@ -6,7 +6,7 @@
 
 Let us define a formal system $\mathcal{F} = (M, \mathcal{Q}, \mathcal{C}, \mathcal{N}, \Phi)$ where:
 
-- $M$ is a 5D Riemannian manifold
+- $M$ is a 5A Riemannian manifold
 - $\mathcal{Q}$ is a quantum probability space
 - $\mathcal{C}$ is a chaotic dynamical system
 - $\mathcal{N}$ is a neural network architecture
@@ -119,7 +119,7 @@ Choosing $\epsilon = \max(\epsilon_1, \epsilon_2, \epsilon_3)$ and appropriate p
 ```
 Algorithm: GenerateQuantumManifold
 Input: resolution r, quantum seed s
-Output: 5D manifold M
+Output: 5A manifold M
 
 1. Initialize M with r^3 points
 2. For each point p in M:
@@ -342,7 +342,7 @@ The implementation achieves the following complexities:
 
 ## 9. Conclusion
 
-The EVOX Aleatory 5D system establishes a rigorous mathematical foundation for autonomous object manifold generation. The isomorphism between specification and implementation is proven through category theory, with explicit bounds on approximation errors. All detected contradictions are resolved through:
+The EVOX Aleatory 5A system establishes a rigorous mathematical foundation for autonomous object manifold generation. The isomorphism between specification and implementation is proven through category theory, with explicit bounds on approximation errors. All detected contradictions are resolved through:
 
 1. **Whitney embedding theorem** for manifold discretization
 2. **Spectral convergence** for quantum state truncation
