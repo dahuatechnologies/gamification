@@ -1,4 +1,4 @@
-# EVOX Aleatory 5D System: Formal Mathematical Proof and Implementation Analysis
+# EVOX Aleatory 5D System
 
 ## 1. Formal Specification Framework
 
