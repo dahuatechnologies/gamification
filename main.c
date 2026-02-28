@@ -2,6 +2,7 @@
  * @file evox_aleatory_5d.c
  * @version 12.0.0
  * @license GNU
+ * @author Evolutia Technologies
  *
  * @title EVOX Aleatory 5D - Chaotic Autonomous Object Manifold Generation
  * @description Complete aleatory (stochastic) system for generating autonomous
